@@ -1,6 +1,6 @@
 {
-  "versionCode": 99,
-  "versionName": "9.9.9 (test)",
+  "versionCode": 3,
+  "versionName": "1.0.1",
   "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.1/vsisremote-1.0.1.apk",
-  "notes": "TEST phát hiện bản mới."
+  "notes": "Bản đầu: tự-cập-nhật trong app + Xem/Sửa tệp SFTP (in-app + editor ngoài)."
 }
