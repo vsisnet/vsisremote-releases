@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.2/vsisremote-1.0.2.apk",
-  "notes": "v1.0.2: icon mới (khớp emulator) + Xem/Sửa tệp SFTP + tự-cập-nhật."
+    "versionCode":  5,
+    "versionName":  "1.0.3",
+    "apkUrl":  "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.3/vsisremote-1.0.3.apk",
+    "notes":  "v1.0.3: sua hien thi version (doc that) + am thanh RDP (Windows)."
 }
