@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.1",
-  "downloadUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.1/vsisremote-windows-1.0.1.zip",
-  "notes": "Bản đầu Windows: Xem/Sửa tệp SFTP + tự-cập-nhật + editor ngoài."
+    "versionCode":  7,
+    "versionName":  "1.0.5",
+    "downloadUrl":  "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.5/vsisremote-windows-1.0.5.zip",
+    "notes":  "RDP Windows: bật đường đồ hoạ GFX/H.264 — hình và chữ nét hơn, video mượt, hết xé hình."
 }
