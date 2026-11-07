@@ -1,6 +1,6 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.0.4",
-    "apkUrl":  "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.4/vsisremote-1.0.4.apk",
-    "notes":  "v1.0.4: SUA CRASH (fat APK du ABI) + hien thi version that + am thanh RDP Windows."
+  "versionCode": 10,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.7/vsisremote-1.0.7.apk",
+  "notes": "v1.0.7: Popup nhắc gia hạn gói (còn ≤3 ngày / đã quá hạn / đã về Free). Nút Đăng ký mở trang thật. Nút + ở màn Phiên không còn bị thanh phím phụ che."
 }
