@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.6",
-  "downloadUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.6/vsisremote-macos-1.0.6.zip",
-  "notes": "v1.0.6: Phiên SSH nhân bản tab + dấu + chọn máy chủ đã lưu; sửa lỗi màn Sửa kết nối hiện mật khẩu đã lưu; thanh RDP toàn màn hình về mép trên; nhiều sửa terminal."
+  "versionCode": 10,
+  "versionName": "1.0.7",
+  "downloadUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.7/vsisremote-macos-1.0.7.zip",
+  "notes": "v1.0.7: Popup nhắc gia hạn gói (còn ≤3 ngày / đã quá hạn / đã về Free). Nút Đăng ký mở trang thật. Nút + ở màn Phiên không còn bị thanh phím phụ che."
 }
