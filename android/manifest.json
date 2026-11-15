@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.7/vsisremote-1.0.7.apk",
-  "notes": "v1.0.7: Popup nhắc gia hạn gói (còn ≤3 ngày / đã quá hạn / đã về Free). Nút Đăng ký mở trang thật. Nút + ở màn Phiên không còn bị thanh phím phụ che."
+  "versionCode": 12,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.9/vsisremote-1.0.9.apk",
+  "notes": "v1.0.9: Màn Kết nối làm lại — ô tìm kiêm kết nối nhanh (gõ user@host là mở được ngay, không cần lưu trước), lọc Tất cả · Yêu thích · Gần đây. Thêm bộ màu terminal Midnight Green và font Source Code Pro, chọn trong Cài đặt; máy đang dùng giữ nguyên lựa chọn cũ."
 }
