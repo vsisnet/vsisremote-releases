@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.9/vsisremote-1.0.9.apk",
-  "notes": "v1.0.9: Màn Kết nối làm lại — ô tìm kiêm kết nối nhanh (gõ user@host là mở được ngay, không cần lưu trước), lọc Tất cả · Yêu thích · Gần đây. Thêm bộ màu terminal Midnight Green và font Source Code Pro, chọn trong Cài đặt; máy đang dùng giữ nguyên lựa chọn cũ."
+  "versionCode": 14,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.11/vsisremote-1.0.11.apk",
+  "notes": "Giữ phiên khi bạn rời ứng dụng.\n\n• Android: phiên SSH không còn đứt khi bạn chuyển sang app khác — ứng dụng hiện một thông báo \"đang giữ phiên\" trong lúc còn phiên mở, hết phiên là tự tắt.\n• iPhone/iPad: xin thêm thời gian trước khi hệ điều hành treo ứng dụng, đủ để bạn đổi app một nhịp rồi quay lại mà phiên còn sống.\n• Công tắc \"Giữ phiên bằng tmux\" trong màn hình kết nối: nối lại sẽ vào đúng phiên cũ trên máy chủ, việc đang chạy không mất.\n• Mất mạng kiểu im lặng (đổi Wi-Fi sang 4G, nhà mạng dọn kết nối) nay được nhận ra trong vài giây và tự nối lại, thay vì hiện \"đã kết nối\" mà gõ không tới máy chủ."
 }
