@@ -1,6 +1,6 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.0.9",
-    "downloadUrl":  "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.9/vsisremote-windows-1.0.9.zip",
-    "notes":  "v1.0.9: Giao diện máy tính làm lại — header mới (cập nhật, thông báo, sáng/tối, ngôn ngữ, tài khoản), thanh bên tự thu khi mở phiên; màn Kết nối dạng lưới, gõ user@host để kết nối nhanh; theme terminal Midnight Green + font Source Code Pro."
+    "versionCode":  15,
+    "versionName":  "1.0.11",
+    "downloadUrl":  "https://github.com/vsisnet/vsisremote-releases/releases/download/v1.0.11/vsisremote-windows-1.0.11.zip",
+    "notes":  "v1.0.11: Tự nhận ra mất mạng âm thầm (đổi Wi-Fi/LAN, rút mạng) và nối lại ngay; công tắc Giữ phiên bằng tmux và ô Lệnh chạy ngay khi kết nối; kéo chọn trong herdr/tmux/vim gửi về ứng dụng ở máy chủ, tự chép qua OSC 52 (giữ Shift để bôi chọn thường)."
 }
